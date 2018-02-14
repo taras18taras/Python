@@ -1,3 +1,4 @@
+
 def arithmetic(arg1, arg2, op):
      if op == '+':
          return arg1 + arg2
@@ -10,5 +11,7 @@ def arithmetic(arg1, arg2, op):
      else:
         return "Неизвестная операция"
 
-#print(arithmetic(1,2,"+"))
-print(2)
+print(arithmetic(1,2,"+"))
+print(arithmetic(1,2,"-"))
+print(arithmetic(1,2,"*"))
+print(arithmetic(1,2,"/"))
