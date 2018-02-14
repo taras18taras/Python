@@ -8,3 +8,6 @@ def is_year_leap(year):
 
     return False
 print(is_year_leap(1994))
+print(is_year_leap(2018))
+print(is_year_leap(2017))
+print(is_year_leap(2016))
