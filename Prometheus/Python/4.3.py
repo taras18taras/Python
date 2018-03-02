@@ -1,7 +1,7 @@
 import sys
 
 arg="())()(()())(()"
-p={parentheses1: "(", parentheses2: ")"}
+#p={parentheses1: "(", parentheses2: ")"}
 s1=''
 s2=''
 if len(arg)%2 != 0:

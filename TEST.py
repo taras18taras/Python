@@ -1,2 +1,5 @@
-for i in range(1,5):
-    print(i%3)
+f = 0.1*3==0.3
+
+
+print(0.1*3)
+print(f)
